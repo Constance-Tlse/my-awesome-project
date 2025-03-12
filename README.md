@@ -1,9 +1,5 @@
-# my-awesome-project
+# Oui c'est le même repo qu'avant mais c'est sans importance :p 
 
-# Devoir recréer une clef SSH par projet c'est vla relou
+Sinon, vous êtes de bonnes personnes sauf si vous kiffez les pizzas à l'ananas :p
 
-<section achievements>
-
-J'ai réussi à faire clone, pull et je m'apprête à faire push
-
-</section>
+sinon, Git graph c'est le feu 🔥
